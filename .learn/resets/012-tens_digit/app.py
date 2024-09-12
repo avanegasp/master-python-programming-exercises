@@ -1,8 +1,7 @@
 # Complete the function to return the tens digit of a given integer
 def tens_digit(num):
-  dec_num = divmod(num, 100)
-  return dec_num
+  return None
 
 
 # Invoke the function with any integer
-print(tens_digit(854345))
+print(tens_digit())
